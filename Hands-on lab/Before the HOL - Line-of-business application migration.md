@@ -1,4 +1,4 @@
-# Line-of-business application migration before the hands-on lab setup guide 
+# BEFORE the hands-on lab setup guide 
 June 2020
 
 **Contents**
