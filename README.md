@@ -20,6 +20,8 @@ You will also learn to use the **Database Migration Service** and the **Data Mig
 
 At the end of this lab, you will be better able to execute migrations to Azure.
 
+[Start the Lab](https://github.com/angus-git/Azure-Line-of-Business-Application-Migration/tree/master/Hands-on%20lab)
+
 ## Azure services and related products
 
 - Azure Migrate
