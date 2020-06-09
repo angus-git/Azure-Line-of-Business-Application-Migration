@@ -1,14 +1,5 @@
-![Microsoft Cloud Workshops](https://github.com/Microsoft/MCW-Template-Cloud-Workshop/raw/master/Media/ms-cloud-workshop.png "Microsoft Cloud Workshops")
-
-<div class="MCWHeader3">
-Angus Edition
-</div>
-
-<div class="MCWHeader3">
-June 2020
-</div>
-
 # Line-of-business application migration before the hands-on lab setup guide 
+June 2020
 
 **Contents**
 
@@ -24,7 +15,7 @@ June 2020
 
 ## Requirements
 
-1. You will need Owner or Contributor permissions for an Azure subscription to use in the lab.
+1. You will need **Owner** or **Contributor** permissions for an Azure subscription to use in the lab.
 
 2. Your subscription must have sufficient unused quota to deploy the VMs used in this lab. To check your quota:
 
@@ -54,6 +45,8 @@ June 2020
 
 ## Before the hands-on lab
 
+**You should follow all steps provided *before* performing the Hands-on lab.**
+
 Duration: 1 hour 15 minutes
 
 ### Task 1: Deploy the on-premises environment
@@ -77,5 +70,3 @@ Duration: 1 hour 15 minutes
     ![Browser screenshot showing the SmartHotel application.](images/BeforeTheHOL/smarthotel.png)
 
     > **Note:** If the SmartHotel application is not shown, wait 10 minutes and try again. It takes **at least 1 hour 15 minutes** from the start of template deployment. You can also check the CPU, network and disk activity levels for the SmartHotelHost VM in the Azure portal, to see if the provisioning is still active.
-
-You should follow all steps provided *before* performing the Hands-on lab.

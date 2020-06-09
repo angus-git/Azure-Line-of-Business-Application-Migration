@@ -1,12 +1,5 @@
 # Hands-on Lab - Line-of-business application migration
-
-<div class="MCWHeader3">
-Angus Edition
-</div>
-
-<div class="MCWHeader3">
 June 2020
-</div>
 
 ## User Guide 
 Lab users have to follow the sequence of implementation from **Before the Lab** to **Step-by-step**. 

@@ -1,5 +1,4 @@
 # Line-of-business application migration
-Angus Edition
 June 2020
 
 ## Customer Background
